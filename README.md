@@ -1,2 +1,0 @@
-# new
-tipos de botões 
